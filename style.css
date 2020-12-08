@@ -6,4 +6,12 @@
 
 body {
     background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+header {
+    color: blue;
+    font-size: 2rem;
 }
