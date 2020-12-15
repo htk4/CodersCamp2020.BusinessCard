@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+header {
+    color: blue;
+    font-size: 2rem;
+    background-color: goldenrod;
